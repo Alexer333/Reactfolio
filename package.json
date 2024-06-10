@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "vitest",
-    "build": "npm run build"
+    "build": "npm run build",
+    "start": "vite"
   }
 }
